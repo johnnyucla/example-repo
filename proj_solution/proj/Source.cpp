@@ -41,5 +41,11 @@ class FlavorCosa : public Cosa
 int main()
 {
 	std::cout << "Hello world!" << std::endl;
+	std::cout << "Bye" << std::endl;
 	return 0;
 }
+
+
+
+
+//This is so I can see the file in "Changes".
